@@ -6,7 +6,7 @@ Develop a web application connected to Sql DB with these following features addi
 
 The requirements and dependencies and environment they will need to use to run the project:
 Java 8
-Spring-boot 
+Spring-boot and spring security 
 Hibernate
 Mysql
 intellij or any text editor 
