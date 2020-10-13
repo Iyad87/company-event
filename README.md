@@ -5,8 +5,8 @@ Brief description of  project does:
 Develop a web application connected to Sql DB with these following features adding, editing and deleteing events. 
 
 The requirements and dependencies and environment they will need to use to run the project:
-Java 8
-Spring-boot 
+Java 11
+Spring-boot and spring security 
 Hibernate
 Mysql
 intellij or any text editor 
