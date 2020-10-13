@@ -3,6 +3,8 @@
 .idea/
 *.iml
 *.iws
+**/build/
+*.class
 
 # Mac
 .DS_Store
